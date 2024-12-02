@@ -6,10 +6,7 @@ A set of scripts and documentation to download wikidata, uncompress it, load it 
 
 
 # Installation
-Please go to https://www.wikidata.org/wiki/Wikidata:Database_download and download the json file.
-It requires to install a torrent client such as ktorrent.
-
-the downloaded file is called wikidata-20240101-all.json.gz
+Please go to https://dumps.wikimedia.org/wikidatawiki/entities/ and download the latest json version.
 
 `pip install joblib pymongo`
 
